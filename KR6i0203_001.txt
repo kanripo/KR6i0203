@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:12:41.762274
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:53
 #+TITLE: 佛說婦人遇辜經
 #+PROPERTY: CBETA_ID T14n0571
 #+PROPERTY: ID KR6i0203
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 571
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0203_T_001-0944a> 
 #+PROPERTY: JUAN 1
 ¶
-No.571¶
-
- 佛說婦人遇辜經¶
+No. 571¶
+佛說婦人遇辜經¶
 ¶
 乞伏秦沙門聖堅譯¶
 
@@ -36,7 +35,7 @@ No.571¶
 居，婦迫日冥，懼為賊所劫，棄車將二子到¶
 水畔，留大子著水邊，抱小子渡水。適到水¶
 半，狼食其子，子叫呼母，母時還顧見子，為¶
-狼所噉，驚惶怖懼，失抱中子，隨水墮流。母¶
+狼所噉，驚惶怖懼，失抱中子，墮水隨流。母¶
 益懊惱，迷惑失志頓躓水中，墮所懷子。遂¶
 便渡水，問道行人：「我家父母，為安隱不？」
 
